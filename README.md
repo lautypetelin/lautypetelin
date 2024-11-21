@@ -3,9 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Programador+Backend;Competitivo+y+comprometido;Siempre+aprendiendo+algo+nuevo;Bienvenido">
 </p>
 	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>&nbsp;Acerca de mí
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=50px></picture>&nbsp;Acerca de mí
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=250px></picture>
 
 Soy `estudiante` de grado de [Tecnicatura Universitaria en Desarrollo de Software](https://www.ulp.edu.ar/paginas/oferta_educativa/tecnicaturas/ict_tuds.php) en [Universidad de La Punta](https://www.ulp.edu.ar/). Java es el Lenjuage de Programación en el que me destaco. Me encanta aprender y crear algo nuevo, productivo, innovador y creativo.
 
@@ -20,8 +20,8 @@ Soy `estudiante` de grado de [Tecnicatura Universitaria en Desarrollo de Softwar
 - :nerd_face: Extremadamente autodidacta.
 <br/>
 
-<p align = "center">
-	<img src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt = "Programando"/>
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Programando"/>
 </p>
 
 ## 🛠️ Skills
@@ -67,10 +67,10 @@ Soy `estudiante` de grado de [Tecnicatura Universitaria en Desarrollo de Softwar
 
 ## Conectémos
 <span>
-  <a href="https://www.linkedin.com/in/lautaro-petelin/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/lautypetelin"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:lautisrra@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://wa.me/2622562359"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+  <a href="https://www.linkedin.com/in/lautaro-petelin/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/lautypetelin" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:lautisrra@gmail.com" target="_blank"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://wa.me/2622562359" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </span>
 
 ## 🐍 Una serpiente se come mi gráfico de contribuciones
