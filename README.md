@@ -16,7 +16,7 @@ Soy `estudiante` de grado de [Tecnicatura Universitaria en Desarrollo de Softwar
 
 **Datos de mi formación hasta hoy:**
 - :trophy: Java Fullstack en el marco de Argentina Programa 4.0 (Concluído).
-- :trophy: Especialización Backend con Java en [Oracle Next Education](https://www.oracle.com/ar/education/oracle-next-education/) (Por concluír).
+- :trophy: Especialización Backend con Java en [Oracle Next Education](https://www.oracle.com/ar/education/oracle-next-education/) (Concluído).
 - :nerd_face: Extremadamente autodidacta.
 <br/>
 
